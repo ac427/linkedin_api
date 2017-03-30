@@ -1,0 +1,4 @@
+[config]
+## no ' ' for below values 
+API_KEY=xxxxxxxxxxxxxxxxxxxx
+API_SECRET=xxxxxxxxxxxxxxxxx
