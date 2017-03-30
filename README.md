@@ -1,5 +1,5 @@
 # linkedin_api
-calling linkedin api uisng Flask
+calling linkedin api using Flask
 * Make sure to set below env or fix your SSL
 
 ```
